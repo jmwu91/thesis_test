@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "e48b3e0e1cfb6298",
+    "type": "split",
+    "children": [
+      {
+        "id": "943eecf9c91b450d",
+        "type": "tabs",
+        "dimension": 54.49299258037923,
+        "children": [
+          {
+            "id": "f6054f0d66c0a203",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "研究進度/文獻回顧/Annotation/MaaS/交通行動服務(MaaS)後續服務擴充與推廣策略規劃.md"
+              }
+            }
+          },
+          {
+            "id": "cb1ee87d465a107a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec97bf3ab4c6bd8c",
+        "type": "tabs",
+        "dimension": 45.50700741962078,
+        "children": [
+          {
+            "id": "451276526539e6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "研究進度/文獻回顧/文獻筆記/MaaS/MaaS 綑綁方案消費者偏好在不同類型城市之比較.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57061158059c138b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0de8b298ca0aed0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "研究進度/文獻回顧/Annotation/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4b36c0024626240",
+    "type": "split",
+    "children": [
+      {
+        "id": "4737f09350405dec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5292f4c0bba34dbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75a2d3730879b3cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e86f113cf9122558",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "1dc6db32df76bfde",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e8eca05c6527cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27485dd3db97a304",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4316a80bb8cabea6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4be49cf6ca818f8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29cb84fbb345536f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作區配置": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "audio-recorder:開始/停止錄音": false
+    }
+  },
+  "active": "57061158059c138b",
+  "lastOpenFiles": [
+    "研究進度/文獻回顧/文獻筆記/MaaS/MaaS 綑綁方案消費者偏好在不同類型城市之比較.md",
+    "研究進度/文獻回顧/Annotation/MaaS/交通行動服務(MaaS)後續服務擴充與推廣策略規劃.md",
+    "研究進度/文獻回顧/文獻筆記/MaaS/Drivers and barriers in adopting Mobility as a Service (MaaS) – A latent class cluster analysis of attitudes.md",
+    "研究進度/緒論/研究背景.md",
+    "研究進度/文獻回顧/文獻筆記/MaaS/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
+    "研究進度/文獻回顧/Annotation/MaaS/Framework for the potential userbase of mobility as a service(好像是質性研究).md",
+    "研究進度/緒論/研究架構.canvas",
+    "研究進度/緒論/研究目的.md",
+    "簡報/pptD018.tmp",
+    "研究進度/文獻回顧/Annotation/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
+    "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
+    "研究進度/緒論/Mobility as a service and sustainable travel behaviour A thematic analysis study.md",
+    "研究進度/文獻回顧/Annotation/MaaS/Mobility as a service and sustainable travel behaviour A thematic analysis study.md",
+    "簡報/~$母片.pptx",
+    "文獻/MaaS/Mobility as a service and sustainable travel behaviour A thematic analysis study.pdf",
+    "文獻/MaaS/Opportunities and barriers to multimodal cities lessons learned from in-depth interviews about attitudes towards mobility as a service.pdf",
+    "文獻/MaaS/1-s2.0-S1369847820304654-main.pdf",
+    "文獻/107年7月-高雄捷運黃線建設未來創造之公共效益分析.pdf",
+    "文獻/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.pdf",
+    "研究進度/文獻回顧/文獻筆記/MaaS/多元交通行動服務使用者之套票購買行為分析－以高雄市MaaS 系統為例.md",
+    "整理的東東/文獻整理.md",
+    "其他/架構.canvas",
+    "研究進度/文獻回顧/Annotation/MaaS/交通行動服務會員之共享運具使用特性分析－以高雄市 MeN Go 系統為例.md",
+    "簡報/~$簡報_for明聰 .pptx",
+    "其他/跟Jason討論.md",
+    "研究進度/文獻回顧/文獻筆記/MaaS/MaaS modelling：a review of factors,  customers’ profiles, choices and business  models.md",
+    "流程.md",
+    "整理的東東/動態時間規整(Dynamic Time Warping, DTW).md",
+    "未命名.canvas",
+    "研究進度/方法論/研究方法.md",
+    "code/kh_mrt_OD/Untitled-1.ipynb",
+    "研究進度/文獻回顧/Annotation/Smart Card/Detecting Public Transport Passenger Movement Patterns.md",
+    "MeNGo資料欄位.png",
+    "螢幕擷取畫面 2024-09-13 195315.png",
+    "研究進度/文獻回顧/文獻筆記/MaaS/Framework for the potential userbase of mobility as a service.md",
+    "研究進度/文獻回顧/文獻筆記/MaaS/Complementing or competing with public transit Evaluating.md",
+    "研究進度/文獻回顧/Annotation/Smart Card/A classification of public transit users with smart card data based on time series distance metrics and a hierarchical.md",
+    "整理的東東/MaaS.md",
+    "簡報/ppt5A5E.tmp",
+    "研究進度/文獻回顧/Annotation/MaaS/Complementing or competing with public transit Evaluating.md",
+    "研究進度/文獻回顧/Annotation/MaaS/Mobility as a service (MaaS)：Charting a future context.md",
+    "文獻/公共運輸&電子票證/4a5f3d53d9b5a1ded2807d9e9cc3ff85.jpg",
+    "NTU_浮水印.png",
+    "架構.canvas",
+    "其他/未命名.canvas",
+    "其他/想東想西.canvas",
+    "研究進度/其他/想東想西.canvas"
+  ]
+}

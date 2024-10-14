@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"d11f6ebe9f8ce1d9","type":"group","x":-880,"y":-320,"width":671,"height":380,"label":"研究方法"},
+		{"id":"ad33b7d2bc780518","type":"group","x":-300,"y":-720,"width":668,"height":268,"label":"文獻回顧"},
+		{"id":"25860f22a033f5f4","type":"group","x":-461,"y":290,"width":702,"height":100,"label":"研究成果"},
+		{"id":"8f098bd0a166c246","type":"group","x":-654,"y":-1100,"width":220,"height":200,"label":"緒論"},
+		{"id":"5d609fffaa01a3ca","type":"text","text":"結論與建議","x":400,"y":80,"width":250,"height":60},
+		{"id":"4ba8290963e8a5e7","type":"text","text":"公共運輸使用者暨旅運資料","x":-860,"y":-180,"width":286,"height":60},
+		{"id":"5e6f1e499652f9ad","type":"text","text":"MeNGo使用者暨旅運資料","x":-860,"y":-300,"width":286,"height":60},
+		{"id":"bf3ae06e94fbde9e","type":"text","text":"公共運輸使用者集群暨分布","x":-441,"y":310,"width":301,"height":60},
+		{"id":"6f9c703d6f9e9ad5","type":"text","text":"MeNGo使用者集群暨分布","x":-80,"y":310,"width":301,"height":60},
+		{"id":"d89ea1dd2dcbc1a7","type":"text","text":"MaaS使用者特徵","x":98,"y":-700,"width":250,"height":60},
+		{"id":"51b3d719b953653c","type":"text","text":"資料清洗","x":-480,"y":-240,"width":250,"height":60},
+		{"id":"4e303841bd763319","type":"text","text":"模型開發","x":-480,"y":-160,"width":250,"height":60},
+		{"id":"feb4ecf5ac9cbe1b","type":"text","text":"模型驗證","x":-479,"y":-80,"width":250,"height":60},
+		{"id":"7130038527954010","type":"text","text":"電子票證資料應用","x":98,"y":-619,"width":250,"height":60},
+		{"id":"a8e26d5f3deb6ea2","type":"text","text":"使用者分群","x":98,"y":-532,"width":250,"height":60},
+		{"id":"835ae164480ebe7c","type":"text","text":"文獻回顧與評析","x":-280,"y":-579,"width":250,"height":60},
+		{"id":"3919325917199983","type":"text","text":"研究背景與動機","x":-634,"y":-1080,"width":180,"height":60},
+		{"id":"a28292da9bacfab7","type":"text","text":"研究目的","x":-634,"y":-980,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"5b5f7861338e9657","fromNode":"3919325917199983","fromSide":"bottom","toNode":"a28292da9bacfab7","toSide":"top"},
+		{"id":"f9cadf38ced95b20","fromNode":"835ae164480ebe7c","fromSide":"right","toNode":"d89ea1dd2dcbc1a7","toSide":"left"},
+		{"id":"cba2e13682631c12","fromNode":"835ae164480ebe7c","fromSide":"right","toNode":"7130038527954010","toSide":"left"},
+		{"id":"c39febbbd34b8285","fromNode":"835ae164480ebe7c","fromSide":"right","toNode":"a8e26d5f3deb6ea2","toSide":"left"},
+		{"id":"a3587571f764bc79","fromNode":"51b3d719b953653c","fromSide":"bottom","toNode":"4e303841bd763319","toSide":"top"},
+		{"id":"b0359dea215cad62","fromNode":"4e303841bd763319","fromSide":"bottom","toNode":"feb4ecf5ac9cbe1b","toSide":"top"},
+		{"id":"304e682817004df9","fromNode":"5e6f1e499652f9ad","fromSide":"right","toNode":"51b3d719b953653c","toSide":"left"},
+		{"id":"ac709fae6f7e2989","fromNode":"4ba8290963e8a5e7","fromSide":"right","toNode":"51b3d719b953653c","toSide":"left"},
+		{"id":"50b26aa3030cdbfc","fromNode":"d11f6ebe9f8ce1d9","fromSide":"right","toNode":"25860f22a033f5f4","toSide":"top"},
+		{"id":"c3eae9756f3320a9","fromNode":"8f098bd0a166c246","fromSide":"bottom","toNode":"ad33b7d2bc780518","toSide":"top"},
+		{"id":"b1133e470e2f26b3","fromNode":"ad33b7d2bc780518","fromSide":"left","toNode":"d11f6ebe9f8ce1d9","toSide":"top"},
+		{"id":"50d05c6aa5146c10","fromNode":"25860f22a033f5f4","fromSide":"right","toNode":"5d609fffaa01a3ca","toSide":"left"}
+	]
+}

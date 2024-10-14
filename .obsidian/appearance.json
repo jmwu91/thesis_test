@@ -1,0 +1,10 @@
+{
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "accentColor": "#19b0f0",
+  "interfaceFontFamily": "Cascadia Code,Cambria,Book Antiqua",
+  "enabledCssSnippets": [
+    "Canvas-Snippets"
+  ],
+  "baseFontSizeAction": false
+}

@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#culstering  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#MaaS  ",
+      "color": {
+        "a": 1,
+        "rgb": 3354831
+      }
+    },
+    {
+      "query": "tag:#K-means  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 2.28216371107266,
+  "lineSizeMultiplier": 2.17698961937716,
+  "collapse-forces": false,
+  "centerStrength": 0.368512110726644,
+  "repelStrength": 20,
+  "linkStrength": 0.6280276816609,
+  "linkDistance": 500,
+  "scale": 0.1797651593240756,
+  "close": true
+}

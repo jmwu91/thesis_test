@@ -1,0 +1,578 @@
+{
+  "workspaces": {
+    "paper看不完嗚嗚": {
+      "main": {
+        "id": "e48b3e0e1cfb6298",
+        "type": "split",
+        "children": [
+          {
+            "id": "06bb88d32e409058",
+            "type": "tabs",
+            "dimension": 42.75862068965517,
+            "children": [
+              {
+                "id": "8128d1773041108e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "ec003a33a125f783",
+            "type": "split",
+            "dimension": 57.24137931034483,
+            "children": [
+              {
+                "id": "943eecf9c91b450d",
+                "type": "tabs",
+                "dimension": 33.03769401330377,
+                "children": [
+                  {
+                    "id": "c6fba55c6c622fcd",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "1273e1c60aea4d31",
+                "type": "tabs",
+                "dimension": 66.96230598669624,
+                "children": [
+                  {
+                    "id": "934fa187acb6586d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "研究進度/文獻回顧/整理的東東/文獻整理.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d4b36c0024626240",
+        "type": "split",
+        "children": [
+          {
+            "id": "4737f09350405dec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5292f4c0bba34dbe",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "75a2d3730879b3cb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e86f113cf9122558",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 237.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "1dc6db32df76bfde",
+        "type": "split",
+        "children": [
+          {
+            "id": "00e8eca05c6527cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27485dd3db97a304",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "研究進度/文獻回顧/整理的東東/文獻整理.md",
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4316a80bb8cabea6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "研究進度/文獻回顧/整理的東東/文獻整理.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4be49cf6ca818f8d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "29cb84fbb345536f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "研究進度/文獻回顧/整理的東東/文獻整理.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作區配置": false,
+          "switcher:開啟快速切換": false,
+          "graph:查看關聯圖": false,
+          "canvas:建立新畫布": false,
+          "daily-notes:開啟今天的每日筆記": false,
+          "templates:插入模板": false,
+          "command-palette:開啟命令面板": false,
+          "audio-recorder:開始/停止錄音": false
+        }
+      },
+      "active": "934fa187acb6586d",
+      "mtime": "2024-06-24T01:09:25+08:00"
+    },
+    "緒論": {
+      "main": {
+        "id": "e48b3e0e1cfb6298",
+        "type": "split",
+        "children": [
+          {
+            "id": "06bb88d32e409058",
+            "type": "tabs",
+            "dimension": 42.75862068965516,
+            "children": [
+              {
+                "id": "8ae9122c9c299393",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "943eecf9c91b450d",
+            "type": "tabs",
+            "dimension": 57.24137931034484,
+            "children": [
+              {
+                "id": "c6fba55c6c622fcd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "研究進度/緒論/研究動機.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f6c114a89e61a7bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "研究進度/緒論/研究背景.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "897ff659720a4013",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "研究進度/緒論/研究動機.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d4b36c0024626240",
+        "type": "split",
+        "children": [
+          {
+            "id": "4737f09350405dec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5292f4c0bba34dbe",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "75a2d3730879b3cb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e86f113cf9122558",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 237.5
+      },
+      "right": {
+        "id": "1dc6db32df76bfde",
+        "type": "split",
+        "children": [
+          {
+            "id": "00e8eca05c6527cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27485dd3db97a304",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "研究進度/緒論/研究動機.md",
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4316a80bb8cabea6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "研究進度/緒論/研究動機.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4be49cf6ca818f8d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "29cb84fbb345536f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "研究進度/緒論/研究動機.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作區配置": false,
+          "switcher:開啟快速切換": false,
+          "graph:查看關聯圖": false,
+          "canvas:建立新畫布": false,
+          "daily-notes:開啟今天的每日筆記": false,
+          "templates:插入模板": false,
+          "command-palette:開啟命令面板": false,
+          "audio-recorder:開始/停止錄音": false
+        }
+      },
+      "active": "c6fba55c6c622fcd",
+      "mtime": "2024-09-13T15:17:32+08:00"
+    },
+    "方法論": {
+      "main": {
+        "id": "e48b3e0e1cfb6298",
+        "type": "split",
+        "children": [
+          {
+            "id": "943eecf9c91b450d",
+            "type": "tabs",
+            "dimension": 47.793103448275865,
+            "children": [
+              {
+                "id": "d5b1e528859e9cab",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "研究進度/文獻回顧/Annotation/Smart Card/A classification of public transit users with smart card data based on time series distance metrics and a hierarchical.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d0e69de70bc92f2e",
+            "type": "tabs",
+            "dimension": 52.206896551724135,
+            "children": [
+              {
+                "id": "0ad03844954845cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "整理的東東/動態時間規整(Dynamic Time Warping, DTW).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "986f3ea60c400a18",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "研究進度/方法論/研究方法.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d4b36c0024626240",
+        "type": "split",
+        "children": [
+          {
+            "id": "4737f09350405dec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5292f4c0bba34dbe",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "75a2d3730879b3cb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e86f113cf9122558",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 237.5
+      },
+      "right": {
+        "id": "1dc6db32df76bfde",
+        "type": "split",
+        "children": [
+          {
+            "id": "00e8eca05c6527cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27485dd3db97a304",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "研究進度/方法論/研究方法.md",
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4316a80bb8cabea6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "研究進度/方法論/研究方法.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4be49cf6ca818f8d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "29cb84fbb345536f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "研究進度/方法論/研究方法.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作區配置": false,
+          "switcher:開啟快速切換": false,
+          "graph:查看關聯圖": false,
+          "canvas:建立新畫布": false,
+          "daily-notes:開啟今天的每日筆記": false,
+          "templates:插入模板": false,
+          "command-palette:開啟命令面板": false,
+          "audio-recorder:開始/停止錄音": false
+        }
+      },
+      "active": "986f3ea60c400a18",
+      "mtime": "2024-09-13T15:29:44+08:00"
+    }
+  },
+  "active": "方法論"
+}
