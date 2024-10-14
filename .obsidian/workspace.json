@@ -177,14 +177,21 @@
                 "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md"
               }
             }
+          },
+          {
+            "id": "fb1431b82c49b3a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +202,11 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "audio-recorder:開始/停止錄音": false
+      "audio-recorder:開始/停止錄音": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57061158059c138b",
+  "active": "5292f4c0bba34dbe",
   "lastOpenFiles": [
     "研究進度/文獻回顧/文獻筆記/MaaS/MaaS 綑綁方案消費者偏好在不同類型城市之比較.md",
     "研究進度/文獻回顧/Annotation/MaaS/交通行動服務(MaaS)後續服務擴充與推廣策略規劃.md",
