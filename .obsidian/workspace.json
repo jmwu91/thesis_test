@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "38975b5314ed7c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test for sucessful commit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b0de8b298ca0aed0",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -206,8 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5292f4c0bba34dbe",
+  "active": "fb1431b82c49b3a1",
   "lastOpenFiles": [
+    "test for sucessful commit.md",
+    "conflict-files-obsidian-git.md",
+    "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
     "研究進度/文獻回顧/文獻筆記/MaaS/MaaS 綑綁方案消費者偏好在不同類型城市之比較.md",
     "研究進度/文獻回顧/Annotation/MaaS/交通行動服務(MaaS)後續服務擴充與推廣策略規劃.md",
     "研究進度/文獻回顧/文獻筆記/MaaS/Drivers and barriers in adopting Mobility as a Service (MaaS) – A latent class cluster analysis of attitudes.md",
@@ -218,7 +231,6 @@
     "研究進度/緒論/研究目的.md",
     "簡報/pptD018.tmp",
     "研究進度/文獻回顧/Annotation/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
-    "研究進度/文獻回顧/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
     "研究進度/緒論/Mobility as a service and sustainable travel behaviour A thematic analysis study.md",
     "研究進度/文獻回顧/Annotation/MaaS/Mobility as a service and sustainable travel behaviour A thematic analysis study.md",
     "簡報/~$母片.pptx",
@@ -247,8 +259,6 @@
     "研究進度/文獻回顧/Annotation/Smart Card/A classification of public transit users with smart card data based on time series distance metrics and a hierarchical.md",
     "整理的東東/MaaS.md",
     "簡報/ppt5A5E.tmp",
-    "研究進度/文獻回顧/Annotation/MaaS/Complementing or competing with public transit Evaluating.md",
-    "研究進度/文獻回顧/Annotation/MaaS/Mobility as a service (MaaS)：Charting a future context.md",
     "文獻/公共運輸&電子票證/4a5f3d53d9b5a1ded2807d9e9cc3ff85.jpg",
     "NTU_浮水印.png",
     "架構.canvas",
