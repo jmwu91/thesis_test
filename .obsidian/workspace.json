@@ -6,7 +6,7 @@
       {
         "id": "06bb88d32e409058",
         "type": "tabs",
-        "dimension": 42.75862068965516,
+        "dimension": 60.21052631578947,
         "children": [
           {
             "id": "8ae9122c9c299393",
@@ -21,7 +21,7 @@
       {
         "id": "943eecf9c91b450d",
         "type": "tabs",
-        "dimension": 57.24137931034484,
+        "dimension": 39.78947368421053,
         "children": [
           {
             "id": "c6fba55c6c622fcd",
@@ -70,21 +70,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "733b3ed7cb17049e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "真的成功了嗎！！！！.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "真的成功了嗎！！！！.md",
+                "file": "研究進度/緒論/研究目的.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "真的成功了嗎！！！！.md",
+                "file": "研究進度/緒論/研究目的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "真的成功了嗎！！！！.md"
+                "file": "研究進度/緒論/研究目的.md"
               }
             }
           },
@@ -222,11 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "733b3ed7cb17049e",
+  "active": "045e2df14b54be1e",
   "lastOpenFiles": [
-    "MeNGo資料欄位.png",
     "test for sucessful commit.md",
+    "MeNGo資料欄位.png",
+    "NTU_浮水印.png",
     "真的成功了嗎！！！！.md",
+    "流程.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "未命名.md",
     "研究進度/緒論/研究目的.md",
     "研究進度/緒論/研究動機.md",
     "研究進度/緒論/研究背景.md",
@@ -254,18 +247,13 @@
     "簡報/~$簡報_for明聰 .pptx",
     "其他/跟Jason討論.md",
     "研究進度/文獻回顧/文獻筆記/MaaS/MaaS modelling：a review of factors,  customers’ profiles, choices and business  models.md",
-    "流程.md",
     "整理的東東/動態時間規整(Dynamic Time Warping, DTW).md",
     "未命名.canvas",
     "研究進度/方法論/研究方法.md",
     "code/kh_mrt_OD/Untitled-1.ipynb",
-    "研究進度/文獻回顧/Annotation/Smart Card/Detecting Public Transport Passenger Movement Patterns.md",
     "螢幕擷取畫面 2024-09-13 195315.png",
-    "研究進度/文獻回顧/文獻筆記/MaaS/Framework for the potential userbase of mobility as a service.md",
-    "研究進度/文獻回顧/文獻筆記/MaaS/Complementing or competing with public transit Evaluating.md",
     "簡報/ppt5A5E.tmp",
     "文獻/公共運輸&電子票證/4a5f3d53d9b5a1ded2807d9e9cc3ff85.jpg",
-    "NTU_浮水印.png",
     "架構.canvas",
     "其他/未命名.canvas",
     "其他/想東想西.canvas",
