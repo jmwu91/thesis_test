@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc6db32df76bfde",
@@ -135,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544
+    "width": 303
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +149,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ae9122c9c299393",
+  "active": "df8a2392583d07e6",
   "lastOpenFiles": [
     "研究進度/文獻回顧/Annotation/Mining smart card data for transit riders’ travel patterns.md",
     "研究進度/緒論/研究目的.md",
