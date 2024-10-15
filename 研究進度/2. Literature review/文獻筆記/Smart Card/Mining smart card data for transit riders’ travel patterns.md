@@ -13,7 +13,7 @@
 ---
 ### 方法論
 
-- 研究流程：[[研究進度/文獻回顧/Annotation/Mining smart card data for transit riders’ travel patterns#^xqzshi7kwqf|Flow chart of the study research process]]
+- 研究流程：[[Mining smart card data for transit riders’ travel patterns 1#^xqzshi7kwqf|Flow chart of the study research process]]
 - 
 ### 討論
 
